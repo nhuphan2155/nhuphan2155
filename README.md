@@ -9,4 +9,5 @@ Technical Skills: Excel, SQL, Python, R
 Visualisation tools: Power BI
 
 LinkedIn: https://www.linkedin.com/in/nhuphan2155/
+
 Email: hoainhu.phanthi@gmail.com
