@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**nhuphan2155/nhuphan2155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Nhu. I'm looking to make a career transition to Data Analysis/ Data Science field.
 
-Here are some ideas to get you started:
+Proven strong finance and business domain knowledge, team collaboration, self starter and learner.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Demonstrated investigative and analytical skills to develop suitable solutions.
+
+Technical Skills: Excel, SQL, Python, R
+
+Visualisation tools: Power BI
+
+LinkedIn: https://www.linkedin.com/in/nhuphan2155/
+Email: hoainhu.phanthi@gmail.com
